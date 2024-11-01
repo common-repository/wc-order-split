@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-11-04 22:31+0500\n"
+"PO-Revision-Date: 2019-11-04 22:31+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/functions.php:57
+msgid "Select Order to Split"
+msgstr "Seleccionar orden para dividir"
+
+#: inc/functions.php:57
+msgid "Select Order to View"
+msgstr "Seleccione orden para ver"
+
+#: inc/functions.php:119
+msgid "Parent Order"
+msgstr "Orden de los padres"
+
+#: inc/functions.php:404
+msgid "Original Order"
+msgstr "Orden original"
+
+#: inc/wcos_color_settings.php:1 inc/wcos_settings.php:1
+msgid "No script kiddies please!"
+msgstr "No hay script kiddies por favor!"
+
+#: inc/wcos_color_settings.php:23 inc/wcos_settings.php:21
+msgid "Sorry, your nonce did not verify."
+msgstr "Lo sentimos, su nonce no se verificó."
+
+#: inc/wcos_color_settings.php:68 inc/wcos_settings.php:86
+msgid "Order"
+msgstr "Orden"
+
+#: inc/wcos_color_settings.php:68
+msgid "Group"
+msgstr "Grupo"
+
+#: inc/wcos_color_settings.php:68 inc/wcos_settings.php:86
+msgid "Management"
+msgstr "administración"
+
+#: inc/wcos_color_settings.php:73 inc/wcos_settings.php:94
+msgid "Success"
+msgstr "Éxito"
+
+#: inc/wcos_color_settings.php:73
+msgid "Group label added successfully"
+msgstr "Etiqueta de grupo agregada con éxito"
+
+#: inc/wcos_color_settings.php:82
+msgid "Group Label"
+msgstr "Etiqueta de grupo"
+
+#: inc/wcos_color_settings.php:83
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: inc/wcos_color_settings.php:84
+msgid "Text Color"
+msgstr "Color de texto"
+
+#: inc/wcos_color_settings.php:85
+msgid "Action"
+msgstr "Acción"
+
+#: inc/wcos_color_settings.php:119
+msgid "Important"
+msgstr "Importante"
+
+#: inc/wcos_color_settings.php:119
+msgid "Maybe you are new to"
+msgstr "Quizás eres nuevo en"
+
+#: inc/wcos_color_settings.php:119
+msgid "HTML color picker"
+msgstr "Selector de color HTML"
+
+#: inc/wcos_color_settings.php:119
+msgid "kindly move the arrow to choose the color"
+msgstr "mueva amablemente la flecha para elegir el color"
+
+#: inc/wcos_color_settings.php:123 inc/wcos_settings.php:156
+msgid "Info"
+msgstr "Informacion"
+
+#: inc/wcos_color_settings.php:123
+msgid "You can add as many as group labels you want"
+msgstr "Puede agregar tantas etiquetas de grupo como desee"
+
+#: inc/wcos_color_settings.php:123
+msgid "These are just a kind of bookmark helpers in splitting action"
+msgstr ""
+"Estos son solo una especie de marcadores ayudantes en la acción de división"
+
+#: inc/wcos_color_settings.php:123
+msgid "You can group multiple items within an order and split accordingly"
+msgstr ""
+"Puede agrupar varios artículos dentro de un pedido y dividirlos en "
+"consecuencia"
+
+#: inc/wcos_color_settings.php:127 inc/wcos_settings.php:138
+#: inc/wcos_settings.php:159
+msgid "Warning"
+msgstr "Advertencia"
+
+#: inc/wcos_color_settings.php:127
+msgid "Saved labels cannot be edited, you can delete and create new"
+msgstr ""
+"Las etiquetas guardadas no se pueden editar, puede eliminar y crear nuevas"
+
+#: inc/wcos_color_settings.php:127
+msgid ""
+"It will not effect any database value if you delete and create the same "
+"label again"
+msgstr ""
+"No afectará ningún valor de la base de datos si elimina y crea la misma "
+"etiqueta nuevamente"
+
+#: inc/wcos_color_settings.php:127
+msgid "Special characters and numbers are not allowed"
+msgstr "No se permiten caracteres ni números especiales"
+
+#: inc/wcos_color_settings.php:127
+msgid "those will be replaced with and"
+msgstr "esos serán reemplazados con y"
+
+#: inc/wcos_color_settings.php:127
+msgid "underscore"
+msgstr "guion bajo"
+
+#: inc/wcos_color_settings.php:127
+msgid "automatically"
+msgstr "automáticamente"
+
+#: inc/wcos_color_settings.php:133
+msgid "Saved Labels"
+msgstr "Etiquetas guardadas"
+
+#: inc/wcos_settings.php:88
+msgid "Go Premium"
+msgstr "Hazte Premium"
+
+#: inc/wcos_settings.php:94
+msgid "Order splitted successfully"
+msgstr "Orden dividida con éxito"
+
+#: inc/wcos_settings.php:132
+msgid "Remove selected items from this order / after split"
+msgstr "Eliminar elementos seleccionados de este pedido / después de dividir"
+
+#: inc/wcos_settings.php:138
+msgid "This order has not enough items to split further"
+msgstr "Este pedido no tiene suficientes elementos para dividir más"
+
+#: inc/wcos_settings.php:144
+msgid "Proceed to Split"
+msgstr "Proceder a Split"
+
+#: inc/wcos_settings.php:156
+msgid ""
+"You can choose any group label and then select items to split in a new order"
+msgstr ""
+"Puede elegir cualquier etiqueta de grupo y luego seleccionar elementos para "
+"dividir en un nuevo orden"
+
+#: inc/wcos_settings.php:159
+msgid "In case you don't select any group label"
+msgstr "En caso de que no seleccione ninguna etiqueta de grupo"
+
+#: inc/wcos_settings.php:159
+msgid "still it will automatically pick the first label"
+msgstr "aún así elegirá automáticamente la primera etiqueta"
+
+#: inc/wcos_settings.php:165
+msgid "Required"
+msgstr "Necesario"
+
+#: inc/wcos_settings.php:165
+msgid "Please define at least one group label"
+msgstr "Defina al menos una etiqueta de grupo"
+
+#: inc/wcos_settings.php:165
+msgid "Click here"
+msgstr "haga clic aquí"
+
+#: inc/wcos_settings.php:165
+msgid "to define a group label"
+msgstr "para definir una etiqueta de grupo"
+
+#: inc/wcos_settings.php:175
+msgid "Define Group Labels"
+msgstr "Definir etiquetas de grupo"
+
+#: inc/wcos_settings.php:187
+msgid "How it works"
+msgstr "Cómo funciona"
+
+#: inc/wcos_settings.php:210
+msgid "Splitted Orders"
+msgstr "Órdenes divididas"

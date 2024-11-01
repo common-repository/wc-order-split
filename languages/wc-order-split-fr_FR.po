@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-11-04 22:32+0500\n"
+"PO-Revision-Date: 2019-11-04 22:32+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/functions.php:57
+msgid "Select Order to Split"
+msgstr "Sélectionnez l'ordre à fractionner"
+
+#: inc/functions.php:57
+msgid "Select Order to View"
+msgstr "Sélectionnez la commande à afficher"
+
+#: inc/functions.php:119
+msgid "Parent Order"
+msgstr "Ordre des parents"
+
+#: inc/functions.php:404
+msgid "Original Order"
+msgstr "Commande d'origine"
+
+#: inc/wcos_color_settings.php:1 inc/wcos_settings.php:1
+msgid "No script kiddies please!"
+msgstr "Pas de script pour les enfants s'il vous plait!"
+
+#: inc/wcos_color_settings.php:23 inc/wcos_settings.php:21
+msgid "Sorry, your nonce did not verify."
+msgstr "Désolé, votre nonce n'a pas vérifié."
+
+#: inc/wcos_color_settings.php:68 inc/wcos_settings.php:86
+msgid "Order"
+msgstr "Ordre"
+
+#: inc/wcos_color_settings.php:68
+msgid "Group"
+msgstr "Groupe"
+
+#: inc/wcos_color_settings.php:68 inc/wcos_settings.php:86
+msgid "Management"
+msgstr "La gestion"
+
+#: inc/wcos_color_settings.php:73 inc/wcos_settings.php:94
+msgid "Success"
+msgstr "Succès"
+
+#: inc/wcos_color_settings.php:73
+msgid "Group label added successfully"
+msgstr "Label de groupe ajouté avec succès"
+
+#: inc/wcos_color_settings.php:82
+msgid "Group Label"
+msgstr "Label de groupe"
+
+#: inc/wcos_color_settings.php:83
+msgid "Background Color"
+msgstr "Couleur de l'arrière plan"
+
+#: inc/wcos_color_settings.php:84
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: inc/wcos_color_settings.php:85
+msgid "Action"
+msgstr "Action"
+
+#: inc/wcos_color_settings.php:119
+msgid "Important"
+msgstr "Important"
+
+#: inc/wcos_color_settings.php:119
+msgid "Maybe you are new to"
+msgstr "Peut-être que vous êtes nouveau à"
+
+#: inc/wcos_color_settings.php:119
+msgid "HTML color picker"
+msgstr "Sélecteur de couleur HTML"
+
+#: inc/wcos_color_settings.php:119
+msgid "kindly move the arrow to choose the color"
+msgstr "bien vouloir déplacer la flèche pour choisir la couleur"
+
+#: inc/wcos_color_settings.php:123 inc/wcos_settings.php:156
+msgid "Info"
+msgstr "Info"
+
+#: inc/wcos_color_settings.php:123
+msgid "You can add as many as group labels you want"
+msgstr "Vous pouvez en ajouter autant que vous le souhaitez"
+
+#: inc/wcos_color_settings.php:123
+msgid "These are just a kind of bookmark helpers in splitting action"
+msgstr "Ce ne sont que des sortes d’aides aux signets en cas de division"
+
+#: inc/wcos_color_settings.php:123
+msgid "You can group multiple items within an order and split accordingly"
+msgstr ""
+"Vous pouvez grouper plusieurs articles dans une commande et les diviser en "
+"conséquence"
+
+#: inc/wcos_color_settings.php:127 inc/wcos_settings.php:138
+#: inc/wcos_settings.php:159
+msgid "Warning"
+msgstr "Attention"
+
+#: inc/wcos_color_settings.php:127
+msgid "Saved labels cannot be edited, you can delete and create new"
+msgstr ""
+"Les étiquettes enregistrées ne peuvent pas être modifiées, vous pouvez les "
+"supprimer et en créer de nouvelles"
+
+#: inc/wcos_color_settings.php:127
+msgid ""
+"It will not effect any database value if you delete and create the same "
+"label again"
+msgstr ""
+"La valeur de la base de données ne sera pas affectée si vous supprimez et "
+"créez à nouveau la même étiquette"
+
+#: inc/wcos_color_settings.php:127
+msgid "Special characters and numbers are not allowed"
+msgstr "Les caractères spéciaux et les chiffres ne sont pas autorisés"
+
+#: inc/wcos_color_settings.php:127
+msgid "those will be replaced with and"
+msgstr "ceux qui seront remplacés par et"
+
+#: inc/wcos_color_settings.php:127
+msgid "underscore"
+msgstr "souligner"
+
+#: inc/wcos_color_settings.php:127
+msgid "automatically"
+msgstr "automatiquement"
+
+#: inc/wcos_color_settings.php:133
+msgid "Saved Labels"
+msgstr "Étiquettes sauvegardées"
+
+#: inc/wcos_settings.php:88
+msgid "Go Premium"
+msgstr "Passer en Premium"
+
+#: inc/wcos_settings.php:94
+msgid "Order splitted successfully"
+msgstr "Commande fractionnée avec succès"
+
+#: inc/wcos_settings.php:132
+msgid "Remove selected items from this order / after split"
+msgstr "Supprimer les éléments sélectionnés de cette commande / après division"
+
+#: inc/wcos_settings.php:138
+msgid "This order has not enough items to split further"
+msgstr "Cette commande n'a pas assez d'articles pour se séparer davantage"
+
+#: inc/wcos_settings.php:144
+msgid "Proceed to Split"
+msgstr "Procéder à Split"
+
+#: inc/wcos_settings.php:156
+msgid ""
+"You can choose any group label and then select items to split in a new order"
+msgstr ""
+"Vous pouvez choisir n’importe quelle étiquette de groupe, puis sélectionner "
+"les éléments à fractionner dans un nouvel ordre"
+
+#: inc/wcos_settings.php:159
+msgid "In case you don't select any group label"
+msgstr "Si vous ne sélectionnez aucune étiquette de groupe"
+
+#: inc/wcos_settings.php:159
+msgid "still it will automatically pick the first label"
+msgstr "toujours il va automatiquement choisir la première étiquette"
+
+#: inc/wcos_settings.php:165
+msgid "Required"
+msgstr "Champs obligatoires"
+
+#: inc/wcos_settings.php:165
+msgid "Please define at least one group label"
+msgstr "Veuillez définir au moins une étiquette de groupe"
+
+#: inc/wcos_settings.php:165
+msgid "Click here"
+msgstr "Cliquez ici"
+
+#: inc/wcos_settings.php:165
+msgid "to define a group label"
+msgstr "définir une étiquette de groupe"
+
+#: inc/wcos_settings.php:175
+msgid "Define Group Labels"
+msgstr "Définir les étiquettes de groupe"
+
+#: inc/wcos_settings.php:187
+msgid "How it works"
+msgstr "Comment ça fonctionne"
+
+#: inc/wcos_settings.php:210
+msgid "Splitted Orders"
+msgstr "Commandes fractionnées"
